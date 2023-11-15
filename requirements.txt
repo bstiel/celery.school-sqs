@@ -1,0 +1,2 @@
+celery[sqs]==5.3.1
+honcho
