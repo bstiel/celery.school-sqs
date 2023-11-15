@@ -1,4 +1,4 @@
-# Celery with SQS as broker
+# Celery with SQS as a Message Broker
 
 This projects contains the source code examples accompanying my blog post:
 
